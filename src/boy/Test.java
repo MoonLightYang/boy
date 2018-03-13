@@ -30,10 +30,6 @@ public class Test {
 		String b = "c";
 	}
 	
-	public void my() {
-		
-	}
-	
 	public void hello() {
 		System.out.println("123");
 	}
