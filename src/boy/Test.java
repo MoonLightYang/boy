@@ -9,11 +9,7 @@ public class Test {
 		System.out.println("123");
 		System.out.println("123");
 	}
-
-	public void tt() {
-
-	}
-
+	
 	public void nginx() {
 		System.out.println(1);
 		int a = 1;
@@ -22,15 +18,6 @@ public class Test {
 
 	public void test() {
 		System.out.println(1);
-		int c = 1;
-		int e = 1;
-		int a = 1;
 		String b = "c";
 	}
-	
-	public void hello() {
-		System.out.println("123");
-	}
-	
-
 }
