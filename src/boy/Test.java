@@ -10,8 +10,14 @@ public class Test {
 	
 	public void test(){
 		System.out.println(1);
+		int e = 1;
 		int a = 1;
-		String b = "c"; 
+		String b = "c";
+		int c = 1;
+	}
+	
+	public void my() {
+		
 	}
 
 }
