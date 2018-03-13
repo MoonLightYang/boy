@@ -16,4 +16,8 @@ public class Test {
 		System.out.println(1);
 		String b = "c";
 	}
+	
+	public void good() {
+		String b = "c";
+	}
 }
