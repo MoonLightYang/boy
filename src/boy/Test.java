@@ -6,9 +6,7 @@ public class Test {
 		System.out.println(1);
 		int a = 1;
 		int b = 1;
-		int c = 0;
-		String s = "";
-		String x = "";
+		System.out.println("123");
 		System.out.println("123");
 	}
 
