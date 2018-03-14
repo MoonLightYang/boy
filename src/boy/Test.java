@@ -14,15 +14,8 @@ public class Test {
 		System.out.println("aaaa");
 	}
 	
-	public void nginx() {
-		System.out.println("123");
-		System.out.println(1);
-		int a = 1;
-		String b = "c";
-	}
-	
-	
 	public void hello(){
 		
 	}
+
 }
