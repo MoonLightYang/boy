@@ -15,4 +15,9 @@ public class Test {
 		int a = 1;
 		String b = "c";
 	}
+	
+	
+	public void hello(){
+		
+	}
 }
