@@ -1,6 +1,12 @@
 package design.pattern;
 
 public class Display implements Observer {
+	
+	public static void main(String[] args) {
+		System.out.println("fdafda");
+		System.out.println("f1");
+		System.out.println("fda");
+	}
 
 	WeatherData data;
 
